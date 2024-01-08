@@ -13,7 +13,7 @@ I am a undergraduate  in computer science 💻 and experience in exploratory dat
 
 <img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
 
-- 🔭 I’m currently working on multiple projects on Esports Management System.
+- 🔭 I’m currently working on Esports Management System.
 - 🧮 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on any Computer Vision related research project.
 - 📫 How to reach me: [Gmail](mailto:omkarpattnaik08@gmail.com)
