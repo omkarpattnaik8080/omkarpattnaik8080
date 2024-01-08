@@ -95,9 +95,6 @@ I am a undergraduate  in computer science 💻 and experience in exploratory dat
     </tbody>
 </table>
 <br>
-
-## 🕑 Wakatime Stats:
-
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
