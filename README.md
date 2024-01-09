@@ -1,6 +1,6 @@
 ### Hii Omkar this side 👋
-![giphy (1)](https://github.com/omkarpattnaik8080/omkarpattnaik8080/assets/142439445/f57f3d2c-2e22-4e83-8d84-42f1c14f4ad4)
 
+![i-have-the-data-heman](https://github.com/omkarpattnaik8080/omkarpattnaik8080/assets/142439445/67681b26-f6a9-4810-b7db-a84b0fc89080)
 
 
 
@@ -14,7 +14,7 @@ I am a undergraduate  in computer science 💻 and experience in exploratory dat
 
 ## ⚡ A Few Quick Facts:
 
-![i-have-the-data-heman](https://github.com/omkarpattnaik8080/omkarpattnaik8080/assets/142439445/67681b26-f6a9-4810-b7db-a84b0fc89080)
+![giphy (1)](https://github.com/omkarpattnaik8080/omkarpattnaik8080/assets/142439445/f57f3d2c-2e22-4e83-8d84-42f1c14f4ad4)
 
 - 🔭 I’m currently working on Esports Management System.
 - 🧮 I’m currently learning Machine Learning.
