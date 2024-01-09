@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Omkar this side</h1>
+<h1 align="center">Hi👋 I am Omkar Pattnaik</h1>
 
 
 
