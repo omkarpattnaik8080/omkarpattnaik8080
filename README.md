@@ -16,7 +16,7 @@ I am a undergraduate  in computer science 💻 and experience in exploratory dat
 
 ## ⚡ A Few Quick Facts:
 
-![giphy (1)](https://github.com/omkarpattnaik8080/omkarpattnaik8080/assets/142439445/f57f3d2c-2e22-4e83-8d84-42f1c14f4ad4)
+
 
 - 🔭 I’m currently working on Esports Management System.
 - 🧮 I’m currently learning Machine Learning.
