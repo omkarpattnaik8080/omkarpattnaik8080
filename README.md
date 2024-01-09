@@ -1,7 +1,9 @@
 ### Hii Omkar this side 👋
+![giphy (1)](https://github.com/omkarpattnaik8080/omkarpattnaik8080/assets/142439445/f57f3d2c-2e22-4e83-8d84-42f1c14f4ad4)
 
 
-![similarweb-data](https://github.com/omkarpattnaik8080/omkarpattnaik8080/assets/142439445/3b0717cc-5104-4eae-8726-009f9492f632)
+
+
 
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Omkar Pattnaik!](https://omkarpattnaik8080.me/) </a> <img src="https://komarev.com/ghpvc/?username=omkarpattnaik8080" height="20px">
 
@@ -12,7 +14,7 @@ I am a undergraduate  in computer science 💻 and experience in exploratory dat
 
 ## ⚡ A Few Quick Facts:
 
-![giphy](https://github.com/omkarpattnaik8080/omkarpattnaik8080/assets/142439445/339ff977-a686-4c00-8bbd-599c427ec24a)
+![i-have-the-data-heman](https://github.com/omkarpattnaik8080/omkarpattnaik8080/assets/142439445/67681b26-f6a9-4810-b7db-a84b0fc89080)
 
 - 🔭 I’m currently working on Esports Management System.
 - 🧮 I’m currently learning Machine Learning.
