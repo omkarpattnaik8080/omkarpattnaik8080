@@ -1,4 +1,4 @@
-### Hii Omkar this side 👋
+<h1 align="center">Hi 👋, Omkar this side</h1>
 
 
 
