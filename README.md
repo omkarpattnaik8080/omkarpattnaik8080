@@ -1,7 +1,9 @@
 ### Hii Omkar this side 👋
 
-![i-have-the-data-heman](https://github.com/omkarpattnaik8080/omkarpattnaik8080/assets/142439445/67681b26-f6a9-4810-b7db-a84b0fc89080)
 
+
+
+![i-have-the-data-heman-ezgif com-resize (1)](https://github.com/omkarpattnaik8080/omkarpattnaik8080/assets/142439445/c54b58e3-f8ff-4bdb-9930-1d228ca82de6)
 
 
 
