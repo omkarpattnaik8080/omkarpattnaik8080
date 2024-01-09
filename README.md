@@ -103,7 +103,7 @@ I am a undergraduate  in computer science 💻 and experience in exploratory dat
 
 > 📦 391.0 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 30+ Contributions in the Year 2024
  > 
 > 📜 26 Public Repositories 
  > 
