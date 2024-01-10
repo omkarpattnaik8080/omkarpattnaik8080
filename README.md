@@ -76,7 +76,7 @@ I am a undergraduate  in computer science 💻 and experience in exploratory dat
 ```text
 Python                   11 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
 Jupyter Notebook         4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-**omkarpattnaik8080/omkarpattnaik8080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 
