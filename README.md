@@ -48,7 +48,7 @@ I am a undergraduate  in computer science 💻 and experience in exploratory dat
 
 ## 📊 GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) <img alt="Omkars's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=omkarpattnaik8080&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=omkarpattnaik8080)](https://git.io/streak-stats) <img alt="Omkars's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=omkarpattnaik8080&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
 
 <br>
 </table>
