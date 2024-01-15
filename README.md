@@ -7,66 +7,29 @@
 
 
 
-<h1 align="center"> Full Stack DataScientist </h1> <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a><img src="https://komarev.com/ghpvc/?username=omkarpattnaik8080"height="20px">
-
-I am a undergraduate  in computer science 💻 and experience in exploratory data analysis, machine learning, computer vision, and statistics 🔥.  I enjoy sharing valuable insights 🧐 and making an impact that helps others learn. I am always open to discussions, so feel free to ask questions or share concerns 💬.
-
-<p><a href="mailto:omkarpattnaik08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://twitter.com/Teamomkar8080"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a></p>
-<br>
-
-## ⚡ A Few Quick Facts:
+# 💫 About Me:
+I m currently working on Esports Management system which is going to be SaaS application<br>and exploring the domain of FullStack DataScience where my major interest lies in Artificial <br>intelligence and machine Learning and its implementation in B2B SaaS products.<br>Product Management and Planning is a role that excites me the most.<br>NLP & LLM are the topics I am diving into.
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/imomkarpattnaik/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/Teamomkar8080) 
 
-- 🔭 I’m currently working on Esports Management System.
-- 🧮 I’m currently learning Machine Learning.
-- 👯 I’m looking to collaborate on any Computer Vision related research project.
-- 📫 How to reach me: [Gmail](mailto:omkarpattnaik08@gmail.com)
-<br>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=omkarpattnaik8080&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=omkarpattnaik8080&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarpattnaik8080&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🛠️ Languages and Tools I use:
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=omkarpattnaik8080&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
-<p align="center"> 
-   
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<br>
+---
+[![](https://visitcount.itsvg.in/api?id=omkarpattnaik8080&icon=6&color=12)](https://visitcount.itsvg.in)
 
-## 🏆 GitHub Trophies:
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=omkarpattnaik8080&column=8&row=1">
-</p>
-<br>
 
-## 📈 GitHub Contribution Graph:
-
-<div align="center">
-    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=omkarpattnaik8080&theme=minimal"/>
-</div>
-<br>
-
-## 📊 GitHub Stats:
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=omkarpattnaik8080)](https://git.io/streak-stats) <img alt="Omkars's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=omkarpattnaik8080&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
-
-<br>
-</table>
-<br>
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 391.0 kB Used in GitHub's Storage 
- > 
-> 🏆 30+ Contributions in the Year 2024
- > 
-> 📜 26 Public Repositories 
- > 
-**I Mostly Code in Python** 
-
-```text
-Python                   11 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Jupyter Notebook         4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
 
 
 
