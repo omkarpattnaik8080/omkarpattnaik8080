@@ -25,8 +25,7 @@ Passionate undergraduate merging data science and software development. Currentl
 
 ---
 [![](https://visitcount.itsvg.in/api?id=omkarpattnaik8080&icon=2&color=11)](https://visitcount.itsvg.in)
-<br clear="both">
-<img src="https://raw.githubusercontent.com/omkarpattnaik8080/omkarpattnaik8080/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/omkarpattnaik8080/omkarpattnaik8080/blob/output/github-contribution-grid-snake.gif)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
