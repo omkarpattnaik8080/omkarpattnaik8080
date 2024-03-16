@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-Passionate undergraduate merging data science and software development. Currently pursuing Btech in Computer Science. Proficient in Python, data analysis, and web development. Eager to contribute to impactful projects. Let's code and innovate together! 💻🚀
+Passionate undergraduate merging DataScience,Machine Learning,Mlops. Currently pursuing Btech in Computer Science. Proficient in Python, data analysis, and web development. Eager to contribute to impactful projects. Let's code and innovate together! 💻🚀
 
 
 ## 🌐 Socials:
