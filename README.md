@@ -7,7 +7,26 @@
 
 
 # 💫 About Me:
-Passionate undergraduate merging DataScience,Machine Learning,Mlops. Currently pursuing Btech in Computer Science. Proficient in Python, DataScience,Machine Learning & Mlops. Eager to contribute to impactful projects. Let's code and innovate together! 💻🚀
+Hi! I’m Omkar, an AI Engineer at CMA CGM, where I design, build, and deploy AI/ML solutions that solve real-world problems in the global shipping and logistics industry.
+
+I work at the intersection of machine learning, data engineering, and scalable deployment—collaborating with cross-functional teams from Infosys, Accenture, and internal stakeholders to deliver high-impact AI initiatives from concept to production.
+
+Here’s what I bring to the table as an AI Engineer:
+	•	Full-Stack ML Development: Experienced in building machine learning and deep learning models for classification, forecasting, and optimization using Python, scikit-learn, TensorFlow, and PyTorch.
+
+	•	Data Engineering & Analytics: Skilled in data wrangling, feature engineering, and exploratory data analysis using SQL, Pandas, and visualization tools like Power BI and matplotlib to uncover insights and inform model design.
+
+	•	MLOps & Production Deployment: Implementing CI/CD pipelines, automated testing, model versioning, containerization (Docker), and post-deployment monitoring to ensure robust and scalable ML systems.
+
+	•	AI for Business Impact: Developed AI solutions that directly support business transformation—driving efficiency, reducing manual processes, and optimizing operations in logistics and supply chains.
+
+	•	Cross-Functional Collaboration: Bridging the gap between data science and business—working closely with product managers, developers, and domain experts to align technical execution with strategic goals.
+
+	•	Startup & SaaS Exposure: Contributed to end-to-end development of B2B SaaS products from scratch, bringing agility, product thinking, and rapid prototyping skills to enterprise AI engineering work.
+
+	•	Ownership Mentality: Comfortable owning the complete ML lifecycle—from data acquisition and preprocessing to model training, deployment, and continuous improvement in production.
+
+I’m passionate about building AI systems that don’t just work in notebooks but scale in production and deliver measurable business outcomes.
 
 
 ## 🌐 Socials:
