@@ -6,27 +6,57 @@
 ![i-have-the-data-heman-ezgif com-resize (1)](https://github.com/omkarpattnaik8080/omkarpattnaik8080/assets/142439445/c54b58e3-f8ff-4bdb-9930-1d228ca82de6)
 
 
-# 💫 About Me:
-Hi! I’m Omkar, an AI Engineer at CMA CGM, where I design, build, and deploy AI/ML solutions that solve real-world problems in the global shipping and logistics industry.
+<h1 align="center">Omkar Pattnaik</h1>
+<p align="center">AI Engineer | Product Analytics | Scalable ML Systems</p>
 
-I work at the intersection of machine learning, data engineering, and scalable deployment—collaborating with cross-functional teams from Infosys, Accenture, and internal stakeholders to deliver high-impact AI initiatives from concept to production.
+---
 
-Here’s what I bring to the table as an AI Engineer:
-	•	Full-Stack ML Development: Experienced in building machine learning and deep learning models for classification, forecasting, and optimization using Python, scikit-learn, TensorFlow, and PyTorch.
+## About
 
-	•	Data Engineering & Analytics: Skilled in data wrangling, feature engineering, and exploratory data analysis using SQL, Pandas, and visualization tools like Power BI and matplotlib to uncover insights and inform model design.
+AI Engineer at CMA CGM working on production-grade machine learning systems and product analytics for large-scale SaaS platforms.
 
-	•	MLOps & Production Deployment: Implementing CI/CD pipelines, automated testing, model versioning, containerization (Docker), and post-deployment monitoring to ensure robust and scalable ML systems.
+Focus areas include building end-to-end ML pipelines, improving model performance through data-driven iteration, and driving product decisions using analytics across user funnels, cohorts, and experimentation.
 
-	•	AI for Business Impact: Developed AI solutions that directly support business transformation—driving efficiency, reducing manual processes, and optimizing operations in logistics and supply chains.
+Experience spans the full lifecycle from data acquisition and modeling to deployment, monitoring, and continuous improvement in production environments.
 
-	•	Cross-Functional Collaboration: Bridging the gap between data science and business—working closely with product managers, developers, and domain experts to align technical execution with strategic goals.
+---
 
-	•	Startup & SaaS Exposure: Contributed to end-to-end development of B2B SaaS products from scratch, bringing agility, product thinking, and rapid prototyping skills to enterprise AI engineering work.
+## Work
 
-	•	Ownership Mentality: Comfortable owning the complete ML lifecycle—from data acquisition and preprocessing to model training, deployment, and continuous improvement in production.
+* Own product analytics for an AI-powered platform used by 7,700+ users across 5 countries
+* Improved model accuracy by 30% through cohort analysis and retraining strategies
+* Reduced manual review workload by 40% via funnel optimization and user journey analysis
+* Designed and executed A/B experiments improving onboarding completion and retention
 
-I’m passionate about building AI systems that don’t just work in notebooks but scale in production and deliver measurable business outcomes.
+---
+
+## Expertise
+
+* Machine Learning: Model development, evaluation, optimization
+* Product Analytics: Funnel analysis, cohort analysis, A/B testing, KPI design
+* Data Systems: SQL, BigQuery, data pipelines, feature engineering
+* Deployment: CI/CD, Docker, MLflow, monitoring
+* Visualization: Power BI, Tableau
+
+---
+
+## Tech Stack
+
+Python, SQL, BigQuery, TensorFlow, PyTorch, MLflow, Docker, Power BI, Tableau
+
+---
+
+## Links
+
+Instagram: https://instagram.com/imomkarpattnaik
+X: https://x.com/Teamomkar8080
+LinkedIn: https://linkedin.com/in/omkar-pattnaik
+
+---
+
+## Philosophy
+
+Build systems that translate data into reliable, measurable business outcomes.
 
 
 ## 🌐 Socials:
